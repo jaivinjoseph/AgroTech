@@ -1,0 +1,133 @@
+.box-1 {
+    background-color: #f2f2f2;
+    padding: 10px;
+    margin: 10px;
+    width: 18.5vw;
+    height: 40vw;
+    max-width: 100%;
+    margin-top: 2vw;
+    margin-left: 5vw;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.391);
+}   
+.veg-1{
+  font-size: 3vw;
+  color:#ffb900;
+  font-weight: 500;
+  margin-top: 1vw;
+  margin-left: 2vw;
+}
+  .to-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  } 
+  .too,
+  .tooo {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+  .cu-1{
+  width:100%;
+  object-fit: cover;
+  height: 11vw;
+  }
+  .pu-1{
+    width:100%;
+    object-fit: cover;
+    height: 11vw;
+  }
+  .to-2 {
+    font-size: 2vw;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+  .far-1{
+    margin-top: 1vw;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-size: 1.10rem;
+    display: flex;
+    justify-content: center;
+  }
+  .pr-1{
+    font-size: 1.10vw;
+    margin-top: 1vw;
+    font-weight:500 ;
+    display: flex;
+    justify-content: center;
+  }
+  .btt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2vw;
+    height: 2vw;
+    width: 2vw;
+  }
+  
+  .bt-1,
+  .bt-2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+  }
+  
+  .t-1 {
+    margin-left: 1vw;
+    margin-right: 1vw;
+  }
+  
+  .bt-3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 2vw;
+    font-size: 1.25vw;
+    padding: 6px 6px;
+    width: fit-content;
+  }
+  
+  .bt {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+  }
+  .bt-1,.bt-2,.bt-3{
+    background-color:#2962ff;
+    border: none;
+    border-radius: .25vw .25vw .25vw .25vw;
+    color: white;
+  }
+  .ve-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .bt-3:hover{
+    background-color:#10359d ;
+  }
+  .cart-link {
+    text-decoration: none;
+    color: white;
+  }
+  .bt-3:hover {
+    transform: translateY(.5vw);
+  }
+  .cart-btn-1{
+    background-color: #2962ff;
+    border: none;
+    height: 2vw;
+    width:6vw;
+    margin-left: 2vw;
+    border-radius: .25vw .25vw .25vw .25vw;
+
+  }
+  .cart-btn-1:hover{
+    background-color:#10359d ;
+  }
+  .vw-1{
+color: white;
+  }

@@ -1,0 +1,37 @@
+.con-emp {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  @keyframes shake {
+    0% {
+      transform: translateX(0);
+    }
+    50% {
+      transform: translateX(5px);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+  
+  .emp {
+    color: #ffb900;
+    font-size: 5vw;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    animation: shake .3s infinite;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 8;
+    animation-delay: 0s;
+  }
+  
+  .emp.stop {
+    animation-iteration-count: infinite;
+    animation-delay: 0.5s;
+  }
+  

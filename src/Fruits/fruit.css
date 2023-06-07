@@ -1,0 +1,135 @@
+.fru-1 {
+  background-color: #f2f2f2;
+  padding: 10px;
+  margin: 10px;
+  width: 18.5vw;
+  height: 40vw;
+  max-width: 100%;
+  margin-top: 2vw;
+  margin-left: 5vw;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.391);
+}   
+.frr-1{
+font-size: 3vw;
+color:#ffb900;
+font-weight: 500;
+margin-top: 1vw;
+margin-left: 2vw;
+}
+
+.fo-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+} 
+.foo,
+.fooo {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+  height: 11vw;
+}
+.ba-1{
+width:100%;
+object-fit: cover;
+height: 11vw;
+}
+.ma-1{
+  width:100%;
+  object-fit: cover;
+  height: 11vw;
+}
+.fo-2 {
+  font-size: 2vw;
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+.fao-1{
+  margin-top: 1vw;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-size: 1.10rem;
+  display: flex;
+  justify-content: center;
+}
+.pro-1{
+  font-size: 1.10vw;
+  margin-top: 1vw;
+  font-weight:500 ;
+  display: flex;
+  justify-content: center;
+}
+.ftt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2vw;
+  height: 2vw;
+  width: 2vw;
+}
+
+.ft-1,
+.ftt-2 {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.ft-2{
+  margin-left: 1vw;
+  margin-right: 1vw;
+}
+
+.ft-3 {
+  display: flex;
+  justify-content: center;
+  margin-top: 2vw;
+  font-size: 1.25vw;
+  padding: 6px 6px;
+  width: fit-content;
+}
+
+.ft {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+}
+.ft-1,.ftt-2,.ft-3{
+  background-color:#2962ff;
+  border: none;
+  border-radius: .25vw .25vw .25vw .25vw;
+  color: white;
+}
+.fu-1{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.ft-3:hover{
+  background-color:#10359d ;
+}
+.cart-link {
+  text-decoration: none;
+  color: white;
+}
+.ft-3:hover {
+  transform: translateY(.5vw);
+}
+.cart-btn-2{
+  background-color: #2962ff;
+  border: none;
+  height: 2vw;
+  width:6vw;
+  margin-left: 2vw;
+  border-radius: .25vw .25vw .25vw .25vw;
+
+}
+.cart-btn-2:hover{
+  background-color:#10359d ;
+}
+.fw-1{
+color: white;
+}

@@ -1,0 +1,157 @@
+.caa-1{
+  font-size: 4vw;
+  color:#ffb900; 
+  margin-left: 3vw;
+  padding: 2vw;
+  margin-top: 4vw;
+  margin-top: 2vw;
+  padding-top: 5vw;
+}
+.cart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2vw;
+
+}
+
+.box-2 {
+  border: 1px solid black;
+  margin: 2vw;
+  padding: 2vw;
+}
+.bx-ca {
+  margin: 10vw;
+  border-top: .08vw solid black;
+  border-bottom: .08vw solid black;
+  
+}
+
+
+.car-1 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1vw;
+}
+
+.ca-t {
+  height: 3vw;
+  width: 3vw;
+  object-fit: fill;
+  margin-left: 2vw;
+  margin-top: 1vw;
+}
+.ca-tt{
+  height: 3vw;
+  width: 3vw;
+  object-fit: fill;
+  margin-left: 2vw;
+  margin-top: 1vw;
+}
+
+.con {
+  position: fixed;
+  bottom: 1vw;
+  right: 0;
+  margin: 2vw;
+  display: flex;
+  align-items: center;
+}
+
+.aro {
+  display: flex;
+  align-items: center;
+  font-size: 1vw;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.aro-1 {
+  font-size: 1.5vw;
+  font-weight: 400;
+  color: blue;
+  display: flex;
+  align-items: center;
+  margin-right: 5px;
+  margin-bottom: 0.25vw;
+}
+
+.aro-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
+
+.can-btn {
+  background-color: #69d417;
+  border: 0;
+  height: 3vw;
+  width: 3vw;
+  border-color: white;
+  margin-top: 1vw;
+  border-radius: .20vw .20vw .20vw .20vw ;
+}
+
+.x-1 {
+  color: white;
+  font-size: 1vw;
+}
+.ite-1{
+  margin-top: 1.8vw;
+  font-weight: 500;
+    font-size: 1.22vw;
+    font-family:  "Poppins", sans-serif;;
+}
+.total-1{
+ display: flex;
+ justify-content: right;
+ font-size: 1.25vw;
+ margin-right: 9vw;
+ margin-top: -4vw;
+ 
+}
+.p-1{
+  display: flex;
+  height: 1.5vw;
+  width:4.2vw;
+  background-color: #2962ff;
+  border: none;
+  justify-content: center;
+  margin-top: 2vw;
+  margin-left: 2vw;
+  border-radius: .25vw .25vw .25vw .25vw;
+
+}
+.pp-1{
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-size: 1vw;
+  align-items: center;
+}
+.empty-cart {
+  border-top: none;
+  border-bottom: none;
+}
+.sa-1{
+  display: flex;
+  margin-left: 4vw;
+  margin-bottom: 3vw;
+  align-items: center;
+}
+.sa-3{
+  color: white;
+  font-size: 1vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sa-2{
+ background-color: #ffb900;
+ display: flex;
+ align-items: center;
+ border: none;
+ justify-content: center;
+ border-radius: .25vw .25vw .25vw .25vw;
+}

@@ -1,0 +1,289 @@
+.tii {
+  color: #ffb900;
+  font-size: 3vw;
+  display: flex;
+  justify-content: center;
+  margin-top: 2vw;
+  font-weight: 520;
+  letter-spacing: .25vw;
+  animation: fade-in 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+.ti-1 {
+  color: #000000;
+  font-size: 2vw;
+  margin-left: 2vw;
+  font-weight: 300;
+  animation: fade-in 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+.ti {
+  margin-top: 3vw;
+  animation: fade-in 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+.dont {
+  color: black;
+  font-size: 1.5vw;
+  animation: fade-in 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+.ti-3 {
+  display: flex;
+  margin-left: 3vw;
+  margin-top: 2vw;
+  flex-direction: column;
+  animation: fade-in 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+.dont-1 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1vw;
+  font-size: 1.20vw;
+  animation: fade-in 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+.und {
+  color: #ffb900;
+}
+
+.mak-1 {
+  display: flex;
+  margin-left: 3vw;
+  margin-top: 2vw;
+  flex-direction: column;
+  animation: fade-in 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+.mak-2 {
+  color: black;
+  font-size: 1.5vw;
+  animation: fade-in 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+.mak-3 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1vw;
+  font-size: 1.20vw;
+  animation: fade-in 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+.pla-1 {
+  display: flex;
+  margin-left: 3vw;
+  margin-top: 2vw;
+  flex-direction: column;
+  animation: fade-in 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+.pla-2 {
+  color: black;
+  font-size: 1.5vw;
+  animation: fade-in 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+.pla-3 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1vw;
+  font-size: 1.20vw;
+  animation: fade-in 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+.whe-1 {
+  display: flex;
+  margin-left: 3vw;
+  margin-top: 2vw;
+  flex-direction: column;
+  animation: fade-in 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+.whe-2 {
+  color: black;
+  font-size: 1.5vw;
+  animation: fade-in 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+.whe-3 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1vw;
+  font-size: 1.20vw;
+  animation: fade-in 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+.tre-1 {
+  display: flex;
+  margin-left: 3vw;
+  margin-top: 2vw;
+  flex-direction: column;
+  animation: fade-in 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+.tre-2 {
+  color: black;
+  font-size: 1.5vw;
+  animation: fade-in 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+.tre-3 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1vw;
+  font-size: 1.20vw;
+  animation: fade-in 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+.ti-2 {
+  margin: 2vw;
+  animation: fade-in 1s ease-in-out forwards;
+  opacity: 0;
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.kharif-table {
+  width: 100%;
+  height: 20vw;
+  width: 30vw;
+  border: 0.10vw solid #000;
+  border-collapse: collapse;
+ font-size: 1.2vw;
+  
+}
+
+.kharif-table th,
+.kharif-table td {
+  padding: 1vw;
+  text-align: left;
+  border-bottom: 0.1vw solid #000000;
+  border-radius: 0.10vw .10vw .10vw .10vw;
+}
+
+.kharif-table th {
+  background-color: #ffb900;
+}
+
+.kharif-table tbody  {
+  background-color: #ffb900;
+}
+
+.kharif-table tbody tr:hover {
+  background-color: #ffffff;
+}
+
+.maa-2{
+  font-size: 3vw;
+  display:flex ;
+  justify-content: center;
+  color: #ffb900;
+
+}
+.tab-1{
+  display: flex;
+  margin-top: 2vw;
+  margin-left: 2vw;
+}
+.tab-1{
+  margin-bottom: 2vw;
+  display: flex;
+  justify-content:right ;
+  margin-right: 3vw;
+  margin-top: 3vw;
+}
+.k-1{
+  display: flex;
+  font-size: 2vw;
+}
+.k-2{
+  display: flex;
+  margin-top: 2vw;
+  font-size: 1.25vw;
+}
+.ri{
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+}
+.ri-1{
+  display: flex;
+  justify-content: right;
+  font-size: 2vw;
+}
+.rii-2{
+  display: flex;
+  justify-content: right;
+  font-size: 1.25vw;
+}
+.rabi-table{
+  width: 100%;
+  height: 20vw;
+  width: 30vw;
+  border: 0.10vw solid #000;
+  border-collapse: collapse;
+ font-size: 1.2vw;
+  border-radius: .01vw .10vw .10vw .10vw ;
+}
+.rabi-table th,
+.rabi-table td {
+  padding: 1vw;
+  text-align: left;
+  border-bottom: 0.1vw solid #000000;
+  border-radius: 0.10vw .10vw .10vw .10vw;
+}
+
+.rabi-table th {
+  background-color: #ffb900;
+}
+
+.rabi-table tbody  {
+  background-color: #ffb900;
+}
+
+.rabi-table tbody tr:hover {
+  background-color: #ffffff;
+}
+.rr-2{
+  display: flex;
+  justify-content: right;
+}
+.z-1{
+  display: flex;
+  font-size: 2vw;
+  margin-top: 2vw;
+}
+.z-2{
+  display: flex;
+  margin-top: 2vw;
+  font-size: 1.25vw;
+}
+.full{
+  margin: 1vw;
+}
